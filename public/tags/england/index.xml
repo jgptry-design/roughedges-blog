@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>England on It&#39;s only drizzling a little bit, get out there</title>
+    <link>http://localhost:1313/tags/england/</link>
+    <description>Recent content in England on It&#39;s only drizzling a little bit, get out there</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Jonathan Tompkins</copyright>
+    <lastBuildDate>Wed, 02 Nov 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/england/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A ride with Rider</title>
+      <link>http://localhost:1313/posts/a_ride_with_rider/</link>
+      <pubDate>Wed, 02 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/a_ride_with_rider/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The best descent in Wharfedale</title>
+      <link>http://localhost:1313/posts/the_best_descent_in_wharfedale/</link>
+      <pubDate>Mon, 31 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/the_best_descent_in_wharfedale/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>A trip down Out Sleets Beck Pot</title>
+      <link>http://localhost:1313/posts/a_trip_down_out_sleets_beck_pot/</link>
+      <pubDate>Sun, 30 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/a_trip_down_out_sleets_beck_pot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to earn brownie points - lesson one.</title>
+      <link>http://localhost:1313/posts/how_to_earn_brownie_points/</link>
+      <pubDate>Fri, 28 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/how_to_earn_brownie_points/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how_to_earn_brownie_points/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

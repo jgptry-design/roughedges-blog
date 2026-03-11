@@ -1,0 +1,47 @@
+/* Force images to the RIGHT on post lists */
+article.relative.flex {
+    flex-direction: row-reverse !important;
+    display: flex !important;
+    align-items: flex-start !important;
+}
+
+/* Give text breathing room */
+article.relative.flex > div:first-child {
+    flex: 1 1 auto !important;
+    padding-right: 2rem !important;
+}
+
+/* Fix thumbnail container */
+article.relative.flex a.thumbnail {
+    width: 150px !important;
+    min-width: 150px !important;
+    flex-shrink: 0 !important;
+    margin-left: 1.5rem !important;
+    position: relative !important;
+}
+
+/* Fix image cropping - override theme's object-cover */
+article img.not-prose.absolute.object-cover {
+    position: relative !important;
+    inset: auto !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: 150px !important;
+    object-fit: contain !important;
+}
+
+/* Remove blue border/shadow from thumbnails */
+article.relative.flex a.thumbnail,
+.thumbnail-shadow {
+    box-shadow: none !important;
+    border: none !important;
+    background: none !important;
+    background-color: transparent !important;
+}
+
+/* Remove indentation everywhere */
+.max-w-prose {
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}

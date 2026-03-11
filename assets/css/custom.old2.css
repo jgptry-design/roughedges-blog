@@ -1,0 +1,58 @@
+/* Keep Blowfish layout intact */
+article {
+  display: flex;
+  align-items: center;
+}
+
+/* Put featured images on the right */
+article img {
+  margin-left: 1.5rem;
+  max-width: 220px;
+}
+/* Keep the list items as a row */
+main article {
+  display: flex;
+  align-items: center;
+}
+
+/* Move the image to the right side */
+main article img {
+  order: 2;
+  margin-left: 1.5rem;
+  max-width: 220px;
+}
+
+/* Ensure the text block stays on the left */
+main article div {
+  order: 1;
+}
+main article img {
+  object-fit: cover;
+  height: 140px;
+}
+/* Reverse the Blowfish list row so thumbnails appear on the right */
+main article > div {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+/* Limit thumbnail size */
+main article img {
+  max-width: 220px;
+  height: auto;
+}
+/* Reverse the Blowfish list layout so thumbnails appear on the right */
+@media (min-width: 768px) {
+  main article {
+    flex-direction: row-reverse !important;
+  }
+}
+
+/* spacing between text and image */
+main article img {
+  margin-left: 1.5rem !important;
+  margin-right: 0 !important;
+  max-width: 220px;
+}
