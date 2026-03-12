@@ -2,11 +2,11 @@
 title: A trip down Out Sleets Beck Pot
 date: 2011-10-30
 draft: false
-featureimage: ""
 tags:
   - England
   - Yorkshire-Dales
   - caving
+description: A caving trip down Out Sleets Beck Pot in the Yorkshire Dales
 ---
 
 ---

@@ -2,13 +2,12 @@
 title: The best descent in Wharfedale
 date: 2011-10-31
 draft: false
-heroStyle: background
-featureimage: ""
 tags:
   - England
   - Yorkshire-Dales
   - cycling
   - mtb
+description: A ride with Stuart Rider to find the best descent on a mountain bike in Wharfedale, Yorkshire Dales
 ---
 
 ---

@@ -3,10 +3,11 @@ draft: false
 date: 2011-11-02
 title: A ride with Rider
 tags:
-- England
-- Yorkshire-Dales
-- cycling
-- mtb
+  - England
+  - Yorkshire-Dales
+  - cycling
+  - mtb
+description: A fantastic mountain bike ride in West Yorkshire with Stuart Rider
 ---
 
 # A ride with Rider

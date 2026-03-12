@@ -16,7 +16,7 @@
       
       <guid>http://localhost:1313/posts/the_two_best_things_in_the_world/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the_two_best_things_in_the_world/featured.jpg" />
     </item>
     
   </channel>

@@ -7,6 +7,8 @@ tags:
   - England
   - Lake-District
   - climbing
+  - motivation
+description: A reluctant climbing trip to the Lake District
 ---
 
 ---

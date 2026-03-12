@@ -7,6 +7,8 @@ heroStyle: background
 featureimage: molly_1.jpg
 tags:
   - Molly
+  - motivation
+description: A dog and a frisbee
 ---
 
 ---

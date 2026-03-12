@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mechanics on It&#39;s only drizzling a little bit, get out there</title>
+    <link>http://localhost:1313/tags/mechanics/</link>
+    <description>Recent content in Mechanics on It&#39;s only drizzling a little bit, get out there</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Jonathan Tompkins</copyright>
+    <lastBuildDate>Sun, 25 Mar 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mechanics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Riderisms</title>
+      <link>http://localhost:1313/posts/riderisms/</link>
+      <pubDate>Sun, 25 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/riderisms/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
