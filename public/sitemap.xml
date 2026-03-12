@@ -27,6 +27,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/project_bikepacking_the_shelter/</loc>
+    <lastmod>2011-11-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/how_to_ignore_the_skill_of_professionals_and_do_your_own_thing/</loc>
     <lastmod>2011-11-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>

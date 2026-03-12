@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Jonathan Tompkins</copyright>
-    <lastBuildDate>Fri, 11 Nov 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bikepacking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bikepacking/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project bikepacking: the shelter</title>
+      <link>http://localhost:1313/posts/project_bikepacking_the_shelter/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/project_bikepacking_the_shelter/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>bikepacking_wharfedale_bishopdale</title>
@@ -16,7 +26,7 @@
       
       <guid>http://localhost:1313/posts/bikepacking_wharfedale_bishopdale/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/bikepacking_wharfedale_bishopdale/featured.jpg" />
     </item>
     
   </channel>
