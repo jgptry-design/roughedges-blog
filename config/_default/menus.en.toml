@@ -67,7 +67,8 @@
   name = "Tags"
   pageRef = "tags"
   weight = 20
+  
   [[main]]
   name = "Contact"
   pageRef = "contact"
-  weight = 30
+  weight = 50
