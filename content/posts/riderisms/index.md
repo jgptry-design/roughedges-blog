@@ -10,7 +10,7 @@ tags:
 
 ---
 
-[Stuart Rider](http://yorkshirebiking.com/) [![|15](ig_logo.svg)](https://instagram.com/paceline_cycles_,echanic)  is an optimistic bloke and he's full of little sayings.
+[Stuart Rider](https://instagram.com/paceline_cycles_mechanic)  is an optimistic bloke and he's full of little sayings.
 
 **"I thought I felt good after the ride until I got home and found blisters where blisters shouldn't be :) my whole body is seizing up :(("**
 Said after riding the Leeds Liverpool canal, twice. 258 miles in 25hrs and 38mins.
