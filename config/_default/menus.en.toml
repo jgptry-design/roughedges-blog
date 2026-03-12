@@ -68,7 +68,23 @@
   pageRef = "tags"
   weight = 20
   
+ [[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 30
+
+  
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 20
+    
   [[main]]
   name = "Contact"
   pageRef = "contact"
-  weight = 50
+  weight = 30
