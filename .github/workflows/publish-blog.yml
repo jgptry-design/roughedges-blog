@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Full history for git operations
+          fetch-depth: 0
           
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,7 +29,10 @@ jobs:
           
       - name: Run prepare_for_hugo script
         run: |
-          python prepare_for_hugo.py --live
+          python prepare_for_hugo.py \
+            --posts-dir content/posts \
+            --backup-dir obsidian_originals \
+            --live
           
       - name: Check for changes
         id: check_changes

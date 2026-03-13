@@ -5,24 +5,23 @@ draft: false
 date: 2026-02-28
 lastmod:
 author: Tompkins Jonathan
+tags:
+  - winter_climbing
+  - Scotland
+  - Cairngorms
 ---
-#what/blog #status/ready_to_publish #topic/winter_climbing #where/Scotland/Cairmgorms
-
----
-
 # Cairngorms Winter Climbing
-**28th February 2026**
 
+**28th February 2026**
 Hmm, winter climbing in Scotland. It's great, rubbish and scary. Great because it's such an adventure, rubbish because the conditions are so fickle and scary because there's generally less protection, or it needs digging out to start with, or the rock you put a sling around is only frozen in rather than physically attached to the rest of the hillside.
 
-I'd first climbed in winter with Stuart decades ago but only recall one trip and never really did anything else. After covid and lockdown for some reason I decided to go again. [[Simon Gannon]] was keen and luckily [[Olly Roberts]] ( [Olly Roberts Mountaineering](https://www.ollyrobertsoutdoors.co.uk) ) and later [[Simon Brocklebank]] were doing their [Winter Mountain Climbing Instructor award](https://www.mountain-training.org/qualifications/climbing/winter-mountaineering-and-climbing-instructor/) so we got free coaching and experience from people who knew what they were doing.
+I'd first climbed in winter with Stuart decades ago but only recall one trip and never really did anything else. After covid and lockdown for some reason I decided to go again. Simon Gannon was keen and luckily [Olly Roberts](https://www.ollyrobertsoutdoors.co.uk) ) and later Simon Brocklebank were doing their [Winter Mountain Climbing Instructor award](https://www.mountain-training.org/qualifications/climbing/winter-mountaineering-and-climbing-instructor/) so we got free coaching and experience from people who knew what they were doing.
 
 Last year the conditions weren't quite as good and they never quite aligned with our free time. We'd got to the age where we had to drive up one day, climb for four days at the most (although realistically three days on a Scottish winter hill was enough) and then drive back on another day. Driving and climbing on the same day was too much and seeing how Simon did all the driving and didn't want to double up, we didn't do it. We'd also had a few trips where we had one good day, one average day and then soft slushy conditions or rain.
 
 This year we booked off the time but left booking the accommodation till the a week before when conditions were good. Obviously over that week it warmed up, big loose cornices formed and of our three climbing days the last one looked rubbish. By the time we drive up the first half of the first day looked good, after that it was forecast to either be too warm or raining. Bugger.
 
 **Saturday 28th February 2026**
-
 The forecast was subzero until midday then maybe getting up to 2°C, light winds and loads of sunshine. The plan was to get to the Cairngorm Coire Cas carpark by sun up at 7am and climb in Coire an t-Sneachda. It's a friendly crag and we knew it reasonably well which helps when you don't do a lot of winter climbing, or climbing in general over the past year. There were reports of big loose cornices and [Olly](https://www.ollyrobertsoutdoors.co.uk/) confirmed it with recent photo. Jacob's Edge (110m II 1 star) looked like a safe bet though so that was our target. 
 
 <figure style="text-align: center;"> <img src="sneachda_approach.jpg" style="max-width: 100%; height: auto;"> <figcaption><i>Coire an t-Sneachda</i></figcaption> </figure>
