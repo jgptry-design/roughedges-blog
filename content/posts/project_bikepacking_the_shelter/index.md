@@ -12,7 +12,7 @@ tags:
 ---
 # Project bikepacking: the shelter
 ﻿
-﻿During my [bikepacking trip around Wharfedale and Bishopdale](04_blog/blog/content/posts/bikepacking_wharfedale_bishopdale/index) I used my tarp against a wall. I wanted to be able to set it up freestanding, using the bike and some guys lines. Despite looking a bit of a knob playing on the village green, the results where a success. I think.
+﻿During my [bikepacking trip around Wharfedale and Bishopdale](04_blog/blog/content/posts/bikepacking_wharfedale_bishopdale/index) I used my tarp against a wall. I wanted to be able to set it up freestanding, using the bike and some guys lines. Despite looking a bit of a knob playing on the village green, the results were a success. I think.
 
 <figure style="text-align: center;">
   <img src="shelter_molly.jpg" 

@@ -45,3 +45,27 @@ article.relative.flex a.thumbnail,
     margin-left: 0 !important;
     margin-right: 0 !important;
 }
+/* --- Internal Post Image Fixes --- */
+
+/* Limit image size on desktop but keep them responsive */
+.prose img {
+    display: block;
+    margin: 2rem auto !important; /* Centers images and adds vertical space */
+    max-width: 80% !important;    /* Prevents images from filling the whole screen width on PC */
+    height: auto !important;
+    max-height: 75vh !important;  /* Prevents tall images from being taller than the screen */
+    border-radius: 0.5rem;
+}
+
+/* Ensure captions or small images don't stretch to 80% if they are naturally small */
+.prose img[width] {
+    width: auto !important;
+}
+
+/* Mobile specific: Let images take up more space on small screens */
+@media (max-width: 768px) {
+    .prose img {
+        max-width: 100% !important;
+        margin: 1rem auto !important;
+    }
+}
