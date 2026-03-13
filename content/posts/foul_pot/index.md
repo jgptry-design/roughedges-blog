@@ -13,7 +13,7 @@ author: Tompkins Jonathan
  **Tuesday 10th February 2026**
 
 Jonathan Tompkins & [[John Martin]]
-
+TEST
 TL; DR - F. O. U. L. Pot, good, hard trip, I don't feel the need to go back.
 
 Awkward crawls and squeezes, an interesting bastard of a narrow rift in two parts, loose in places, flood prone, a magnificent big pitch, some impressive formations, a squalid final sump and well worth the trip. [As long as you don't get stuck in the rift and need to cut your trouser leg off](https://www.tsgcaving.co.uk/content/Trip-Reports/foul-pot-ben-wrightsteph-dwyer)
