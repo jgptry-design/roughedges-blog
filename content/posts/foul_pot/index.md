@@ -5,14 +5,16 @@ draft: false
 date: 2026-02-11
 lastmod:
 author: Tompkins Jonathan
----
-#what/blog #topic/caving #status/ready_to_publish #where/England/Yorkshire_Dales 
-
+tags:
+  - Yorkshire-Dales
+  - England
+  - Ingleborough
+  - caving
 ---
 # F.O.U.L. POT
  **Tuesday 10th February 2026**
 
-Jonathan Tompkins & [[John Martin]]
+Jonathan Tompkins & John Martin
 
 TL; DR - F. O. U. L. Pot, good, hard trip, I don't feel the need to go back.
 
@@ -52,15 +54,6 @@ Six and a half hours in the end, including walking up and finding the entrance a
 
 
 <figure style="text-align: center;"> <img src="big_pitch_rebelay.jpg" style="max-width: 100%; height: auto;"> <figcaption><i>big pitch rebelay</i></figcaption> </figure>
-
-
-<figure style="text-align: center;">
-  <video src="foul_pot_rift_1.mp4" style="max-width: 100%; height: auto;" controls>
-    Your browser does not support the video tag.
-  </video>
-  <figcaption><i>The rift on the way out</i></figcaption>
-</figure>
-
 
 
 <div style="text-align: center; margin: 2rem 0;">
