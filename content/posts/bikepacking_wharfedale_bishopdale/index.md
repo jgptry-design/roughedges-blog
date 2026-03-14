@@ -1,15 +1,14 @@
 ---
-title: bikepacking_wharfedale_bishopdale
+title: Bikepacking in Wharfedale & Bishopdale
 draft: false
 date: 2011-11-11
-description: A last minute bikepacking trip in Wharfdale and Bishopdale in the Yorkshire
-  Dales
+description: A last minute bikepacking trip in Wharfdale and Bishopdale in the Yorkshire Dales
 tags:
-- England
-- Yorkshire-Dales
-- bikepacking
-- cycling
-- mtb
+  - England
+  - Yorkshire-Dales
+  - bikepacking
+  - cycling
+  - mtb
 ---
 
 # Bikepacking in Wharfedale and Bishopdale
