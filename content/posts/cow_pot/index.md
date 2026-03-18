@@ -6,7 +6,6 @@ tags:
   - caving
   - England
   - Yorkshire-Dales
-  - Gaping-Gill
 draft: false
 ---
 # Cow Pot

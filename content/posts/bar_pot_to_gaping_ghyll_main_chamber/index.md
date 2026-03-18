@@ -5,7 +5,6 @@ author: Tompkins Jonathan
 tags:
   - caving
   - England
-  - Gaping-Gill
   - Yorkshire-Dales
 draft: false
 ---

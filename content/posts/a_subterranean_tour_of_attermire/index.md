@@ -5,7 +5,6 @@ author: Tompkins Jonathan
 draft: false
 tags:
   - Yorkshire-Dales
-  - Attermire
   - England
   - caving
 ---

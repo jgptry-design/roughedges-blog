@@ -5,7 +5,6 @@ author: Tompkins Jonathan
 tags:
   - caving
   - Yorkshire-Dales
-  - Kingsdale
 draft: false
 ---
 ﻿

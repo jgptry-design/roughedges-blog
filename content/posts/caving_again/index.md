@@ -6,10 +6,7 @@ draft: false
 tags:
   - caving
   - Yorkshire-Dales
-  - Nidderdale
   - England
-  - Selside
-  - Birkwith
 ---
 
 Calf Holes to Browgill and Alum Pot are both on my L2 list but I hadn't been down then for a while. On the 7th October I quickly popped down Calf Holes and my rigging was rusty. Also had a look at the middle waterfall pitch; it looks too wet even in normal conditions for most of my groups. On the 15th I went down Alum Pot via Dolly Tubs and the Greasy Slab. I'd thought about my rigging since Calf Holes and it was much better on this trip. I wasn't enjoying using my Stop on 9mm Gleistein semi static ropes though, it was a bit jerky. I also learnt that all my rope lengths were wrong by about 5 metres. I possibly didn't soak them enough originally and they've shrunk a bit since. Time to re-mark them all.

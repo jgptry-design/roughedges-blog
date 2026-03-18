@@ -7,7 +7,6 @@ tags:
   - caving
   - Yorkshire-Dales
   - England
-  - Darnbrook-Darnside
 ---
 
 # Cherry Tree Hole, Darnbrook

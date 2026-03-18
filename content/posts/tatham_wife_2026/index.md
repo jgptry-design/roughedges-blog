@@ -9,7 +9,6 @@ tags:
   - Yorkshire-Dales
   - caving
   - England
-  - Ingleborough
 ---
 # Tatham Wife Hole
 **5th March 2026**

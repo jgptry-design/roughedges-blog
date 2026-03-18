@@ -6,7 +6,6 @@ draft: false
 tags:
   - caving
   - Yorkshire-Dales
-  - Easegill
   - England
   - CIC
 ---

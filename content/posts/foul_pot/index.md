@@ -8,7 +8,6 @@ author: Tompkins Jonathan
 tags:
   - Yorkshire-Dales
   - England
-  - Ingleborough
   - caving
 ---
 # F.O.U.L. POT
