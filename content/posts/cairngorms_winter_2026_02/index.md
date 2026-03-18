@@ -6,9 +6,9 @@ date: 2026-02-28
 lastmod:
 author: Tompkins Jonathan
 tags:
-  - winter_climbing
   - Scotland
   - Cairngorms
+  - winter-climbing
 ---
 # Cairngorms Winter Climbing
 

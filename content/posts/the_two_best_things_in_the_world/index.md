@@ -3,8 +3,6 @@ title: The two best things in the world
 featureimagecaption: Molly
 date: 2011-11-19
 draft: false
-heroStyle: background
-featureimage: molly_1.jpg
 tags:
   - Molly
   - motivation

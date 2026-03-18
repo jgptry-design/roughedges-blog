@@ -6,6 +6,7 @@ tags:
   - caving
   - Yorkshire-Dales
 draft: false
+description: A well trodden caving trip down Bull Pot on the Yorkshire Dales
 ---
 ﻿
 

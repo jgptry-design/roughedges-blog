@@ -7,6 +7,7 @@ tags:
   - caving
   - Yorkshire-Dales
   - England
+description: A tough caving trip down Boggarts Roaring Holes in the Yorkshire Dales.
 ---
 # Boggarts Roaring Holes (2001 extensions)
 **23rd December 2020**

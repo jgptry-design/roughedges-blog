@@ -4,7 +4,7 @@ tags:
   - Yorkshire-Dales
   - England
 title: Hurnell Moss Pot
-description:
+description: A caving trip down Hurnell Moss Pot on the Yorkshire Dales
 draft: false
 date: 2012-12-06
 author: Tompkins Jonathan

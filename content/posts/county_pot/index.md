@@ -8,6 +8,7 @@ tags:
   - Yorkshire-Dales
   - England
   - CIC
+description: CIC training caving trips
 ---
 ﻿
 # County Pot

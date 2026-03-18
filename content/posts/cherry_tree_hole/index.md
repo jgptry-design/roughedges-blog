@@ -7,6 +7,7 @@ tags:
   - caving
   - Yorkshire-Dales
   - England
+description: An easy caving trip down Cherry Tree Hole in the Yorkshire Dales
 ---
 
 # Cherry Tree Hole, Darnbrook

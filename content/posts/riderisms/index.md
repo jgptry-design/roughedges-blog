@@ -2,10 +2,10 @@
 title: Riderisms
 draft: false
 date: 2012-03-25
-description: an avid cyclists little sayings
+description: an avid cyclist's little sayings
 tags:
-- mechanics
-- motivation
+  - mechanics
+  - motivation
 ---
 
 ---

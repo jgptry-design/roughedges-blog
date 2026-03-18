@@ -1,6 +1,5 @@
 ---
 title: How to earn brownie points - lesson one.
-featureimagecaption: Sound of me moaning not included
 date: 2011-10-28
 draft: false
 tags:

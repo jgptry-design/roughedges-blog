@@ -7,6 +7,7 @@ tags:
   - England
   - Yorkshire-Dales
 draft: false
+description: A caving trip down the impressive Cow Pot on the Yorkshire Dales
 ---
 # Cow Pot
 **26th February 2013**
