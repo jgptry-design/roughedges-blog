@@ -16,14 +16,6 @@ author: Tompkins Jonathan
 
 It's wet so a trip down some part of Bar Pot seemed a good idea with John Martin, plus John had never been to Main Chamber. I'd never done Small Mammal Pot before so this seemed a good choice. I packed the bags as per the [CNCC rigging Topo](https://cncc.org.uk/cave/bar-pot) but for some reason it doesn't mention the traverse round South East Pot. Luckily I remembered.
 
-<figure style="text-align: center;">
-  <img src="small_mammal_pot-wet.jpg" 
-       alt="ALT TEXT" 
-       style="max-width: 100%; height: auto;">
-  <figcaption><i>Wet</i></figcaption>
-</figure>
-
-
 There's no CNCC description for SMP but I'd seen [this](https://www.braemoor.co.uk/caving/route18.shtml) at the excellent braemoor website. For some inexplicable reason I didn't print it out.
 
 John Martin was running a bit late plus he had to pick up my newly repaired cave suit from [Pennine Outdoors ](https://www.pennineoutdoor.co.uk/)(impressively cheap). We met Kevin Chadwick in Clapham and had a natter and then on the walk up we met John Cordingly and we again had a natter. Then we moved a dead tree from the entrance to Fox Holes and eventually we reached Bar Pot entrance where we sheltered from the wind and rain whilst we got into our SRT kit.
