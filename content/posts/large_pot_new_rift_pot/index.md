@@ -16,7 +16,7 @@ Caving attempt #1 Large Pot. Not large at all, in fact it's smaller than my ches
 
 Caving attempt #2 New Rift Pot(Accurate description this time) Refuse to drop head first through squeeze. Bail out. Again.
 
-Caving attempt #3. Shopping [inglesport]([http://hootsuite.com/dashboard#](https://www.inglesport.com)) - successful! Petzl Pro Traxion & Partner Pulley on Lee Paskin advice, plus a very nice Alpdesign Junior bag
+Caving attempt #3. Shopping [inglesport](https://www.inglesport.com) - successful! Petzl Pro Traxion & Partner Pulley on Lee Paskin advice, plus a very nice Alpdesign Junior bag
 
 Says it all really. A completely unsuccessful caving trip but at least I'm not still there waiting for [CaveRescueOrg](https://cro.org.uk) !
 
@@ -30,6 +30,7 @@ There's a [survey](http://cavemaps.org/cavePages/Marble%20Steps__Large%20Pot.htm
 
 # Large Pot
 **4th January 2013**
+Olly Rees, Henry Exon & me, sort of.
 
 When Olly suggested caving on Friday I didn't think he'd suggest Large Pot again. When he did my brain said no but for some reason I actually said yes.
 

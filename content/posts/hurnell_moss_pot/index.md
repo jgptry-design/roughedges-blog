@@ -12,7 +12,7 @@ author: Tompkins Jonathan
 # Hurnell Moss Pot
 **6th December 2012, Me and Olly Rees**
 
-After [yesterdays disaster](http://jonathantompkins.blogspot.co.uk/2012/12/large-pot-new-rift-pot.html) in Large Pot I wanted an easy vertical trip. The forecast was for snow and sleet in the afternoon and our original choice of Aquamole had the possibility of us been stuck in Kingsdale, unable to drive back up the hill. We settled on Hurnell Moss Pot, mostly because it was vertical and partly because a bloke in [Inglesport cafe](http://www.inglesport.com/about-us/the-cafe) assured us that it wouldn't be wet.
+After yesterdays disaster in Large Pot I wanted an easy vertical trip. The forecast was for snow and sleet in the afternoon and our original choice of Aquamole had the possibility of us been stuck in Kingsdale, unable to drive back up the hill. We settled on Hurnell Moss Pot, mostly because it was vertical and partly because a bloke in [Inglesport cafe](http://www.inglesport.com) assured us that it wouldn't be wet.
 
 The walk up to Gaping Gill was as pleasant as ever. After meeting at 10 in Inglesport, driving to Clapham, kitting up, walking up, talking to passers by and finally finding the cave it was after 12. Good job it was basically straight down and back up.
 
