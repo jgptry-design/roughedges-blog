@@ -1,7 +1,7 @@
 ---
 title: Highland 550 2023
 description: Spring solo bikepacking trip around the Highland 550
-draft: true
+draft: false
 date: 2023-05-29
 author: Tompkins Jonathan
 tags:
