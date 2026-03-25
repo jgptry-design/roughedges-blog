@@ -7,6 +7,7 @@ tags:
   - England
   - Yorkshire-Dales
 draft: false
+description: A caving trip down Gaping Gill in the Yorkshire Dales, to the largest underground chamber in the UK
 ---
 # Bar Pot to Gaping Ghyll main chamber
 **Thursday 5th January 2012**

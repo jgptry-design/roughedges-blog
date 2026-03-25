@@ -5,6 +5,7 @@ author: Tompkins Jonathan
 tags:
   - mtb
 draft: false
+description: A confession of an affair
 ---
 I've got a confession to make. For the last 2 weeks I've been cheating on my partner of 7 years. When we first met all those years ago, it was off the back of a failed long term relationship. A series of short lived dalliances were all unsatisfactory, there was something missing, that vital fizz wasn't there. But the first time I met my partner I knew she was the one; it was love at first sight. That first meeting was both agony and joy. I knew she had to go back and I wouldn't see her for a while but I also knew that she my future, and that we would eventually be together. 
 

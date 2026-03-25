@@ -6,6 +6,7 @@ tags:
   - Scotland
   - mtb
 draft: false
+description: A mountain biking trip up and down Ben Lomond in Scotland
 ---
 # Ben Lomond
 

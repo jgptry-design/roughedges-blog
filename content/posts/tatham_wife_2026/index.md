@@ -3,7 +3,6 @@ title: Tatham Wife Hole
 description: A trip down Tatham Wife Hole on Ingleborough
 draft: false
 date: 2026-03-05
-lastmod:
 author: Tompkins Jonathan
 tags:
   - Yorkshire-Dales

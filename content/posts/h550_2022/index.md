@@ -3,7 +3,6 @@ title: Highland 550 2022
 description: A failed attempt on the Highland 550
 draft: false
 date: 2022-05-02
-lastmod:
 author: Tompkins Jonathan
 tags:
   - bikepacking

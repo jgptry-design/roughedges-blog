@@ -6,7 +6,6 @@ title: Don't drink and ride
 description: Drinking and mountain biking don't mix
 draft: false
 date: 2012-01-02
-lastmod:
 author: Tompkins Jonathan
 ---
 

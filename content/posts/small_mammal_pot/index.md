@@ -7,7 +7,6 @@ title: Small Mammal Pot
 description: A caving trip down Small Mammal Pot near Gaping Gill
 draft: false
 date: 2018-12-06
-lastmod:
 author: Tompkins Jonathan
 ---
 # Small Mammal Pot

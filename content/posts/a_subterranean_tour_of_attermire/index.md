@@ -7,6 +7,7 @@ tags:
   - Yorkshire-Dales
   - England
   - caving
+description: A caving trip around Attermire in the Yorkshire Dales
 ---
 # A Subterranean Tour of Attermire
 **Saturday 31 December 2011**

@@ -6,7 +6,7 @@ draft: false
 tags:
   - mtb
   - bikepacking
-description: Goals
+description: Goals for 2012
 ---
 # Things to drive in 2012
 

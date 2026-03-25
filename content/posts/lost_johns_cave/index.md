@@ -2,11 +2,11 @@
 title: Lost John's cave
 draft: false
 date: 2011-11-18
-description: A trip down Lost John's Cave in the Yorkshire Dales
+description: A trip down the very popular Lost John's Cave in the Yorkshire Dales
 tags:
-- England
-- Yorkshire-Dales
-- caving
+  - England
+  - Yorkshire-Dales
+  - caving
 ---
 
 ---

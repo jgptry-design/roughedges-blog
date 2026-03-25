@@ -7,6 +7,7 @@ tags:
   - caving
   - Yorkshire-Dales
   - England
+description: An easy caving trip down Crackpot Cave in the Yorkshire Dales
 ---
 ﻿
 # Crackpot Cave, Swaledale

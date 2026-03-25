@@ -4,7 +4,7 @@ tags:
   - Yorkshire-Dales
   - England
 title: Large Pot & New Rift Pot
-description: A failed attempt on a cave that's just too small
+description: A failed attempt on a cave that's just too small for me
 draft: false
 date: 2013-01-04
 author: Tompkins Jonathan

@@ -3,7 +3,6 @@ title: F.O.U.L Pot
 description: A trip down the tiring F.O.U.L. Pot on Fountains Fell, Yorkshire Dales
 draft: false
 date: 2026-02-11
-lastmod:
 author: Tompkins Jonathan
 tags:
   - Yorkshire-Dales
