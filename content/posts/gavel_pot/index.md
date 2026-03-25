@@ -6,6 +6,7 @@ description: A "follow your nose" caving trip down Gavel Pot on the Yorkshire Da
 draft: false
 date: 2013-03-14
 author: Tompkins Jonathan
+title: Gavel Pot
 ---
 ﻿# Gavel Pot
 ﻿**12th March 2013**

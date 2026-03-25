@@ -6,8 +6,11 @@ description: A leisurely stroll above Malham looking at obscure, short caves
 draft: false
 date: 2011-12-28
 author: Tompkins Jonathan
+title: I know there's a cave here somewhere
 ---
-﻿**28th December 2011**
+# I know there's a cave here somewhere
+
+ **28th December 2011**
 ﻿**Grizedale Hole**
 ﻿
 ﻿The plan was to take Molly for a walk and look for some obscure cave entrances whilst I was out, in particular Grizedale Hole and Kuling Hole which have both been dye tested to Malham Cove. They are currently both short caves although there is massive potential, Malham Cove is approximately 2.5km away and over 250m lower. So I drove up to Langscar gate and set off walking with Northern Caves 2, OL2, a compass and a torch. 
