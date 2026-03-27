@@ -3,7 +3,7 @@ tags:
   - England
   - bikepacking
   - road-cycling
-title: Land's End to John O'Groats dya 1, Penzance to Land's End to Penzance
+title: Land's End to John O'Groats day 1, Penzance to Land's End to Penzance
 description: LEJOG day 1 Penzance to Lands End to Penzance
 draft: false
 date: 2018-08-28
