@@ -1,1 +1,17 @@
+# --- Resilio Sync Garbage ---
+*.Conflict.*
+*.conflict.*
+.sync/
+SyncArchive/
+
+# --- OS Garbage ---
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Hugo/Obsidian Specifics ---
 public/
+resources/
+.hugo_build.lock
+.obsidian/workspace.json
+.obsidian/workspaces.json
