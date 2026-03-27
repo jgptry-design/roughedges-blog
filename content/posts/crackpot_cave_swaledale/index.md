@@ -46,4 +46,4 @@ After what seemed like ages the crawl ended and we were in the suprisingly well 
  After a chat about various caving things we headed out and crawled down all the oxbows to complete the trip. Throughout the whole trip we were constantly discussing exactly how certain features had formed. By the end we both concluded that were weren't exactly sure! Emerging outside we were greated by darkness, rain and a temperature a lot colder than inside. We took the high route back via the track, much easier than the valley route.
 
 A short cave suitable for an evening trip but well worth a look.
-<figure style="text-align: center;"> <img src="crackpot_cave_survey.bmp" style="max-width: 100%; height: auto;"> <figcaption><i></i></figcaption> </figure>
+<figure style="text-align: center;"> <img src="crackpot_cave_survey.jpg" style="max-width: 100%; height: auto;"> <figcaption><i></i></figcaption> </figure>
