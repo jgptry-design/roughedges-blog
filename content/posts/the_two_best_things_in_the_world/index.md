@@ -50,3 +50,9 @@ description: A dog and a frisbee
        style="max-width: 100%; height: auto;">
   <figcaption><i></i></figcaption>
 </figure>
+
+
+<div style="text-align: center; margin: 2rem 0;">
+  {{< youtube 72L7EkWJCHU >}}
+  <p><i>And if you can't get a frisbee, a stick will do.</i></p>
+</div>
