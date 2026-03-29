@@ -55,6 +55,6 @@ Six and a half hours in the end, including walking up and finding the entrance a
 
 
 <div style="text-align: center; margin: 2rem 0;">
-  {{< youtube hgZWgaqpIfA >}}
+  {{< youtube RbdK_iljG3A >}}
   <p><i>The Rift, as bad as it looks.</i></p>
 </div>
