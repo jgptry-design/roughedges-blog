@@ -4,7 +4,7 @@ tags:
   - bikepacking
   - England
 title: LEJOG day 2 Penzance to Wheal Tor, Liskeard.
-description: LEJOG day 2 Penzance to Wheal Tor, Liskeard.
+description: Land's End to John O'Groats day 2 Penzance to Wheal Tor, Liskeard.
 draft: false
 date: 2018-08-29
 author: Tompkins Jonathan
