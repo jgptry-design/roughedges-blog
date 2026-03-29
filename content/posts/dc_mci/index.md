@@ -48,6 +48,12 @@ The next day we went scrambling on Tryfan with Andy, another MCI aspirant. Betwe
 </figure>
 
 
+<div style="text-align: center; margin: 2rem 0;">
+  {{< youtube 6j-AHzW5cu4 >}}
+  <p><i>I had a little moment</i></p>
+</div>
+
+
 <figure style="text-align: center;">
   <img src="team-2.jpg" 
        alt="ALT TEXT" 
