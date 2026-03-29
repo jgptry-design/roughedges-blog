@@ -7,7 +7,7 @@ lastmod:
 author: Tompkins Jonathan
 tags:
   - Yorkshire-Dales
-  - winter_climbing
+  - winter-climbing
 ---
 # Gordale ice climbing
 **17th December 2022**

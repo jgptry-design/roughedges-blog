@@ -1,12 +1,15 @@
 ---
 tags:
   - caving
-title: Rescue practice
+  - rescue-practice
+title: Caving rescue practice
 description: Caving srt rescue practice with Graham Coates
 draft: false
 date: 2018-12-20
 author: Tompkins Jonathan
 ---
+# Caving rescue practice
+
 Graham Coates is going through his CIC assessment and was going to the Yorkshire Dales Guides barn to do some rescue practice so I met him and learnt something.
 
 Rescues practiced - 
