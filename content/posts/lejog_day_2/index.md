@@ -19,6 +19,7 @@ The one essential travel item, the ear plug, worked well last night although the
 So, not too far to ride today, 119km, but it's fairly hilly with 2.4vkm.  We decided to set off early and get breakfast after about an hour. Instead we set off late and had a banana and two biscuits. At the half way mark at about lunch time we had a pub meal. Quite frankly I'm flabbergasted I rode 60km on so little food. The burger was great and I even risked half a pint of a local ale! Hardcore.
 
 <figure style="text-align: center;"> <img src="lost_pub.jpg" style="max-width: 100%; height: auto;"> <figcaption><i>A proper pub, lots of wood, hidden corners and red carpets. Pity I can't remember where it is.</i></figcaption> </figure>
+
 We had generally good weather. It was windy and occasionally damp this morning but we were mostly sheltered in the sunken Cornish lanes. The sun came out in the afternoon along with a headwind, just as the hills got steeper and the lanes less sheltered.
 
 Highlights of the day were definitely the two ferry crossings, one at King Harry's Crossing (best place name along with London Apprentice) over the river Fal and the other at Bodinnick. At King Harry's we were getting hungry so I asked the lad who worked on the boat if there were any cafes along the road. He replied that he'd never been over the other side! His whole life must revolve around the ferry and his village. I managed to persuade him to step off the ferry onto this new world and he agreed. He looked pleased. Honest.

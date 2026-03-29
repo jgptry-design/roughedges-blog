@@ -14,7 +14,6 @@ author: Tompkins Jonathan
 **1st September 2018**
 **5.31hrs 112.6km 20.3av 1.3vkm**
 
-
 <figure style="text-align: center;">
   <img src="wyeyha.jpg" 
        alt="ALT TEXT" 

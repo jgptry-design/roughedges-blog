@@ -14,6 +14,8 @@ author: Tompkins Jonathan
 **3rd September 2018**
 **6.08hrs 126km 20.5av 1.1vkm**
 
+Both Jim and I absolutely loved this day.
+
 <figure style="text-align: center;">
   <img src="ground-conditions.jpg" 
        alt="ALT TEXT" 
