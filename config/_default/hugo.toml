@@ -3,7 +3,8 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://localhost:1313/"
+# baseURL = "https://localhost:1313/" # use this to test it locally
+baseURL = "https://www.roughedges.co.uk/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -23,6 +24,9 @@ enableEmoji = true
 
 [imaging]
   anchor = 'Center'
+  autoOrient = true
+  quality = 85
+  resampleFilter = "box"
 
 [taxonomies]
   tag = "tags"
