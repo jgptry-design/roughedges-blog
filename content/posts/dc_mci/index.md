@@ -1,7 +1,7 @@
 ---
 title: Dave Clark's MCI training
 description: A couple off days with Dave Clark as he gets ready for his MCI assessment
-draft: true
+draft: false
 date: 2026-03-25
 author: Tompkins Jonathan
 tags:
@@ -12,7 +12,7 @@ tags:
 # Rescue practice and scrambling in North Wales
 **25th March 2026**
 
-So [[Dave Clark]] ([Instagram](https://www.instagram.com/lakedistrictdave/)) has booked his [MCI](https://www.mountain-training.org/qualifications/climbing/mountaineering-and-climbing-instructor/) assessment and being the organised soul he is he's got loads of mates to be bodies as he practises. I planned to join him for three days in March but a broken van and bad weather changed that to two days. The weather, as always, wasn't super helpful so the first day we went to the [Beacon Climbing Centre](https://www.beaconclimbing.com) and practised various rescues and ropework techniques:
+So [Dave Clark](https://www.instagram.com/lakedistrictdave/) has booked his [MCI](https://www.mountain-training.org/qualifications/climbing/mountaineering-and-climbing-instructor/) assessment and being the organised soul he is he's got loads of mates to be bodies as he practises. I planned to join him for three days in March but a broken van and bad weather changed that to two days. The weather, as always, wasn't super helpful so the first day we went to the [Beacon Climbing Centre](https://www.beaconclimbing.com) and practised various rescues and ropework techniques:
 - using a belay device in guide mode and how to release it. We tried using my [Edelrid Gigajul](https://edelrid.com/gb-en/sport/belay-devices/giga-jul?variant=571567) in assisted braking mode combined with guide mode but it doesn't seem to work.
 - escaping the system by building a second anchor. A lot of this is avoided using slings or a cordelette instead of the ropes when building the anchor.
 
