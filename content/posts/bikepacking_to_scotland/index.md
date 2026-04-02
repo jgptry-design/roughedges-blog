@@ -4,9 +4,13 @@ date: 2017-09-11
 author: Tompkins Jonathan
 draft: false
 description: A hastily planned bikepacking trip to Scotland
----
-#topic/cycling/mtb #topic/cycling/bikepacking #topic/wildcamping #what/blog  #where/England/Yorkshire_Dales #where/England/North_Pennines #where/England/Northumberland
-
+tags:
+  - Yorkshire-Dales
+  - North-Pennines
+  - Northumberland
+  - bikepacking
+  - wildcamping
+  - mtb
 ---
 
 # Bikepacking to Scotland - not quite, Northumberland was far enough
