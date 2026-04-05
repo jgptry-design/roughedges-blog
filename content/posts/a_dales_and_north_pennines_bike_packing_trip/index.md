@@ -10,9 +10,6 @@ tags:
   - wildcamping
 draft: false
 ---
-#where/England/Yorkshire_Dales #where/England/North_Pennines #what/blog #topic/cycling/mtb #topic/wildcamping #topic/cycling/bikepacking 
-
----
 # A Dales and North Pennines bikepacking trip
 **May 2021**
 
