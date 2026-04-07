@@ -2,6 +2,7 @@
 tags:
   - mtb
   - kit
+  - Yorkshire-Dales
 title: First rides on the Blue Pig X
 description: Testing a Ragley Blue Pig X
 draft: false
