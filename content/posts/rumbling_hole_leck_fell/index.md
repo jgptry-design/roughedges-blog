@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#caving"
-  - "#Yorkshire-Dales"
-  - "#England"
+  - caving
+  - England
+  - Yorkshire-Dales
 title: Rumbling Hole, Leck Fell.
 description: A caving trip down Rumbling Hole in the Yorkshire Dales, with interesting rigging and fine formations
 draft: false

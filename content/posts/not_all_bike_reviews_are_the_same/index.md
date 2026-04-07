@@ -1,7 +1,7 @@
 ---
 tags:
-  - "#kit"
   - mtb
+  - kit
 title: Not all bike reviews are the same.
 description: A mild rant about mtb reviews
 draft: false
