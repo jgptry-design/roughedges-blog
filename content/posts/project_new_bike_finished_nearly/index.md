@@ -1,6 +1,6 @@
 ---
 title: Project new bike - finished! Nearly.
-description:
+description: The continuing, but nearly finished, saga of choosing a new bike.
 draft: false
 date: 2012-07-01
 author: Tompkins Jonathan

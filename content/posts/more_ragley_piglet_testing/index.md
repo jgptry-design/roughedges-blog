@@ -4,7 +4,7 @@ tags:
   - kit
   - Lake-District
 title: More Ragley Piglet testing
-description:
+description: The still continuing saga of choosing a new bike
 draft: false
 date: 2012-02-24
 author: Tompkins Jonathan

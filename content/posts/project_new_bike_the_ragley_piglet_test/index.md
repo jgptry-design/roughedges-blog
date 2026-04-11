@@ -3,7 +3,7 @@ tags:
   - kit
   - mtb
 title: Project new bike - the Ragley Piglet test.
-description:
+description: The continuing saga of choosing a new bike
 draft: false
 date: 2012-02-23
 author: Tompkins Jonathan

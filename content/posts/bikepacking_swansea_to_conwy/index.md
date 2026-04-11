@@ -2,13 +2,13 @@
 title: Bikepacking Swansea to Conwy
 date: 2016-10-10
 author: Tompkins Jonathan
-location:
 tags:
   - Wales
   - mtb
   - bikepacking
   - wildcamping
 draft: false
+description: A self planned bikepacking trip through Wales, south to north
 ---
 
 # Bikepacking Swansea to Conwy

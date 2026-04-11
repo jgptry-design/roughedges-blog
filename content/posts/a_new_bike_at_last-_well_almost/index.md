@@ -6,6 +6,7 @@ tags:
   - mtb
   - kit
 draft: false
+description: Waiting for delivery of my new bike
 ---
 # A new bike at last. Well, almost.
 

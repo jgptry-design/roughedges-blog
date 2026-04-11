@@ -2,13 +2,11 @@
 title: Backup caving lights
 date: 2012-11-27
 author: Tompkins Jonathan
-topic:
-  - kit
-  - caving
 tags:
   - kit
   - caving
 draft: false
+description: The tedious, over complicated process of choosing a backup light for caving
 ---
 # Backup Caving Lights
 

@@ -9,6 +9,7 @@ tags:
   - bikepacking
   - wildcamping
 draft: false
+description: A bikepacking trip through the Yorkshire Dales and North Pennines
 ---
 # A Dales and North Pennines bikepacking trip
 **May 2021**

@@ -3,7 +3,7 @@ tags:
   - kit
   - bikepacking
 title: Kit list & potential changes for Scottish spring autumn bikepacking.
-description:
+description: The ever changing kit list for bikepacking
 draft: false
 date: 2019-05-07
 author: Tompkins Jonathan
