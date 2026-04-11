@@ -7,7 +7,6 @@ author: Tompkins Jonathan
 tags:
   - cycling
 ---
-
 # Is it a gravel bike?
 
 
