@@ -4,9 +4,10 @@ description: A trip to  Cortina in the Dolomites to do via ferratas
 draft: false
 date: 2026-06-15
 author: Tompkins Jonathan
+tags:
+  - where/Italy
+  - topic/viaferrata
 ---
-#what/blog #topic/viaferrata #where/Italy
-
 
 ---
 # Via Ferrata in the Dolomites
