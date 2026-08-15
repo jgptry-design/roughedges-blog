@@ -5,8 +5,8 @@ draft: false
 date: 2026-06-15
 author: Tompkins Jonathan
 tags:
-  - where/Italy
-  - topic/viaferrata
+  - Italy
+  - ViaFerrata
 ---
 
 ---
