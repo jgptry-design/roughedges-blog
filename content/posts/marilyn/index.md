@@ -11,7 +11,7 @@ tags:
 # Marilyn Pot
 **16/08/2026**
 
-Another long dry summer and [[John Martin|John Martin]] and I still had done the Easegill through trip. We each had the same day free during the August Gaping Gill winch meet, organised by the Craven Pothole Club - https://www.cravenpotholeclub.org . We didn't really plan anything in advance and ended up going down Marilyn (I'd forgot how snug it was in places), romping around Henslers (I'd also forgot how big this was) and then went to look at the Far Country. 
+Another long dry summer and John Martin and I still had done the Easegill through trip. We each had the same day free during the August Gaping Gill winch meet, organised by the [Craven Pothole Club](https://www.cravenpotholeclub.org) . We didn't really plan anything in advance and ended up going down Marilyn (I'd forgot how snug it was in places), romping around Henslers (I'd also forgot how big this was) and then went to look at the Far Country. 
 
 <figure style="text-align: center;">
   <img src="henslers-3.jpeg" 
